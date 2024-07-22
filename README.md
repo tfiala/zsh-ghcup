@@ -14,4 +14,4 @@ for this, and I want to reduce the amount of work to install
 a zsh environment on a new system.
 
 ## Installation
-Use your favorite zsh plugin manager to install this plugin.
+Use your favorite zsh plugin manager to install this plugin (e.g. [zplug](https://github.com/zplug/zplug)).
